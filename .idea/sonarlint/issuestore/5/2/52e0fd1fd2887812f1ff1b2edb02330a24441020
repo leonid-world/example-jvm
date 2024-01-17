@@ -1,0 +1,19 @@
+
+0
+java:S1220""Move this file to a named package.
+G	java:S106"+Replace this use of System.out by a logger.(¡³îş8ı°½¯Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(ş¸şğıÿÿÿÿ8ı°½¯Ñ1
+G	java:S106"+Replace this use of System.out by a logger.(ÿØ™í8ş°½¯Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(È¦·Æÿÿÿÿÿ8ş°½¯Ñ1
+G	java:S106"+Replace this use of System.out by a logger.(»Ò«Û8ÿ°½¯Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(Ù‘Ä„ÿÿÿÿÿ8ÿ°½¯Ñ1
+G	java:S106"+Replace this use of System.out by a logger.(›¤À8€±½¯Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(­‹ã‡ûÿÿÿÿ8€±½¯Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(Í‡’Šúÿÿÿÿ8€±½¯Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(£¤ ¡ùÿÿÿÿ8±½¯Ñ1
+E
+java:S1068!"(Remove this unused "name" private field.(Ë¥¼8û¼¯Ñ1
+I
+java:S1068#"'Remove this unused "age" private field.(‘„û»øÿÿÿÿ8û¼¯Ñ1
+K
+java:S1068%")Remove this unused "birth" private field.(¶’Œûÿÿÿÿ8û¼¯Ñ1
