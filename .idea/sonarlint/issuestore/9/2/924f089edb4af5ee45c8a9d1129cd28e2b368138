@@ -1,4 +1,10 @@
 
-0
-java:S1220""Move this file to a named package.
-E	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ
+7
+java:S1220""Move this file to a named package.8ÂÏ¦¯Ñ1
+L	java:S106	"+Replace this use of System.out by a logger.(ùÄûšþÿÿÿÿ8ÌÏ¦¯Ñ1
+M
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×êŽ’8ñ‹¹¯Ñ1
+Y
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8ì†¾¯Ñ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ì†¾¯Ñ1
